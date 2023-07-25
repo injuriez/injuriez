@@ -1,4 +1,3 @@
 ### This is my github page!
-
-![injuriez GitHub stats](https://github-readme-stats.vercel.app/api?username=injuriez&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=injuriez&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1026624380509360188)
+![Discord Banner 4](https://discordapp.com/api/guilds/1130302503976706159/widget.png?style=banner4)
