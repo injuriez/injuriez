@@ -1,5 +1,6 @@
 ### Discord Profile
-![](https://discord-readme-badge.vercel.app/api?id=991558850056573031)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=991558850056573031)
+
 ### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=injuriez&layout=compact)
 ## About Me
