@@ -8,8 +8,7 @@
 
 <br clear="both">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ankfmsq0kvoavoslfgse96idd)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ankfmsq0kvoavoslfgse96idd&unique={true|1|on|yes})
 ###
 
 <h2 align="left">Languages</h2>
