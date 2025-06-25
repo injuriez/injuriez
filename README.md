@@ -8,9 +8,7 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ankfmsq0kvoavoslfgse96idd?theme=dark&spin=false&rainbow=false" alt="Widget with the current Spotify song"  />
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ankfmsq0kvoavoslfgse96idd)
 
 ###
 
