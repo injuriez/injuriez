@@ -60,8 +60,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=Mangoguards-ALS-AIO&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
     <a href="https://github.com/injuriez/Mangoguards-installer">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=Mangoguards-installer&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/injuriez/Web-Development">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=Web-Development&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
     <a href="https://github.com/injuriez/MangoGuards">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=MangoGuards&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
   </p>
