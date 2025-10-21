@@ -51,19 +51,25 @@
 
 <div align="center">
   <h3>⭐️ Best Repositories</h3>
-  <p align="center">
+  <p align="center" style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;">
     <a href="https://github.com/injuriez/Bloomfisching">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=Bloomfisching&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=Bloomfisching&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" height="150" />
+    </a>
     <a href="https://github.com/injuriez/Bloom">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=Bloom&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=Bloom&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" height="150" />
+    </a>
     <a href="https://github.com/injuriez/Mangoguards-ALS-AIO">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=Mangoguards-ALS-AIO&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=Mangoguards-ALS-AIO&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" height="150" />
+    </a>
     <a href="https://github.com/injuriez/Mangoguards-installer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=Mangoguards-installer&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=Mangoguards-installer&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" height="150" />
+    </a>
     <a href="https://github.com/injuriez/MangoGuards">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=MangoGuards&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=MangoGuards&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" height="150" />
+    </a>
   </p>
 </div>
+
 
 
 <div align="center">
