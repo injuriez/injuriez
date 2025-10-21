@@ -50,6 +50,25 @@
 ###
 
 <div align="center">
+  <h3>⭐️ Best Repositories</h3>
+  <p align="center">
+    <a href="https://github.com/injuriez/Bloomfisching">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=Bloomfisching&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/injuriez/Bloom">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=Bloom&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/injuriez/Mangoguards-ALS-AIO">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=Mangoguards-ALS-AIO&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/injuriez/Mangoguards-installer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=Mangoguards-installer&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/injuriez/Web-Development">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=Web-Development&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/injuriez/MangoGuards">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=injuriez&repo=MangoGuards&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+  </p>
+</div>
+
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=injuriez&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=injuriez&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=injuriez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
