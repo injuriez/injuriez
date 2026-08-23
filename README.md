@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! I’m a passionate full stack developer with over 4 years of experience building websites and applications. I love creating projects that help others. My main focus is on TypeScript, JavaScript, Python, AHK, and HTML. I’ve built Discord multitools, designed websites for platforms like Lyricism and RoSearch, and developed countless apps and sites for creators across various fields.<br><br>I also used to be a Roblox animator, scripter, and 3D modeler. I worked as the lead developer handling scripting and animation for an unreleased battlegrounds game which was canceled!</p>
+<p align="left">Hi! I’m a passionate full stack developer with over <b>5 years of experience</b> building websites and applications. I love creating projects that help others. My main focus is on TypeScript, JavaScript, Python, AHK, and HTML. I’ve built Discord multitools, designed websites for platforms like Lyricism and RoSearch, and developed countless apps and sites for creators across various fields.<br><br>I also used to be a Roblox animator, scripter, and 3D modeler. I worked as the lead developer handling scripting and animation for an unreleased battlegrounds game which was canceled!</p>
 
 ###
 
@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <h4>🦀 Main language I use</h4>
+  <h4>Main language I use</h4>
   <img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="rust" />
 </div>
 
