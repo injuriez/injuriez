@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ankfmsq0kvoavoslfgse96idd&theme=radical)s})
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ankfmsq0kvoavoslfgse96idd&theme=radical)
 [![Discord Presence](https://lanyard.cnrad.dev/api/393120250499039244)](https://discord.com/users/393120250499039244)
 ###
 
