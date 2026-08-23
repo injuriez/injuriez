@@ -9,7 +9,7 @@
 <br clear="both">
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ankfmsq0kvoavoslfgse96idd&unique={true|1|on|yes})
-<p align="center"> <a href="https://discord.com/users/393120250499039244"> <img src="https://lanyard.cnrad.dev/api/393120250499039244" alt="Discord presence" /> </a> </p>
+<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID" alt="Discord presence" />
 ###
 
 <h2 align="left">Languages</h2>
