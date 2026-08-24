@@ -26,7 +26,7 @@
 
   <img src="https://skillicons.dev/icons?i=rust,tauri,py,fastapi,vite&theme=dark" alt="Rust, Tauri, Python & FastAPI, vite" />  
 </div>
-###
+
 
 <h2 align="left">Stats</h2>
 
