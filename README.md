@@ -23,8 +23,20 @@
 
 <div align="center">
   <h4>My Main Stack</h4>
+
+  <h5>Backend</h5>
   <div>
-    <img src="https://skillicons.dev/icons?i=rust,tauri,py,fastapi&theme=dark" alt="Rust, Tauri, Python & FastAPI" />
+    <img src="https://skillicons.dev/icons?i=rust,py,fastapi&theme=dark" alt="Rust, Python & FastAPI" />
+  </div>
+
+  <h5>Frontend</h5>
+  <div>
+    <img src="https://skillicons.dev/icons?i=tauri&theme=dark" alt="Tauri" />
+  </div>
+
+  <h5>Web</h5>
+  <div>
+    <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" />
   </div>
 </div>
 
