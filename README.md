@@ -13,7 +13,7 @@
 <br>
 
 
-<h2 align="left">Languages</h2> 
+<h2 align="left">Languages & Frameworks</h2> 
 
 ###
 
