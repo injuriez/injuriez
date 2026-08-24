@@ -24,24 +24,22 @@
 <div align="center">
   <h4>My Main Stack</h4>
 
-  <div style="display: flex; justify-content: center; gap: 40px;">
-
-    <div>
-      <h5>Backend</h5>
-      <img src="https://skillicons.dev/icons?i=rust,py,fastapi&theme=dark" alt="Rust, Python & FastAPI" />
-    </div>
-
-    <div>
-      <h5>Frontend</h5>
-      <img src="https://skillicons.dev/icons?i=tauri&theme=dark" alt="Tauri" />
-    </div>
-
-    <div>
-      <h5>Web</h5>
-      <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" />
-    </div>
-
-  </div>
+  <table>
+    <tr>
+      <td align="center">
+        <h5>Backend</h5>
+        <img src="https://skillicons.dev/icons?i=rust,py,fastapi&theme=dark" alt="Rust, Python & FastAPI" />
+      </td>
+      <td align="center">
+        <h5>Frontend</h5>
+        <img src="https://skillicons.dev/icons?i=tauri&theme=dark" alt="Tauri" />
+      </td>
+      <td align="center">
+        <h5>Web</h5>
+        <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" />
+      </td>
+    </tr>
+  </table>
 </div>
 ###
 
