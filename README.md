@@ -18,12 +18,14 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,vite,nextjs,py,css,tailwind,tauri,electron&theme=dark" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,vite,nextjs,py,css,tailwind&theme=dark" alt="languages" />
 </div>
 
 <div align="center">
-  <h4>Main language I use</h4>
-  <img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="rust" />
+  <h4>My Main Stack</h4>
+  <div>
+    <img src="https://skillicons.dev/icons?i=rust,tauri,py,fastapi&theme=dark" alt="Rust, Tauri, Python & FastAPI" />
+  </div>
 </div>
 
 ###
