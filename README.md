@@ -1,10 +1,17 @@
-<h1 align="left">About me</h1>
+<img src="https://github.com/injuriez/injuriez/blob/main/OutlineFinalOutput.png?raw=true" width="440px" align="right">
+<h3>rucy / rushi / injuriez  [<a href="https://t.me/rushiBTW">contact</a>] </h3>
+<p><code>she/her</code>, <code>girl</code>, <code>perfectionist</code></p>
+<p>full stack developer</p></p>
+<p>https://meowcro.com/</p>
+<hr>
+<br>
 
-###
+<h2>Hello!!</h2>
+<p>I'm Rushi, a full stack developer with <b>5 years of experience!</b></p>
+<p>i have a HUGE passion for coding i really love coding! its like a addictive drug to me!</p>
+<p>if you ever need help or want to ask me a question you can <a href="https://t.me/rushiBTW">contact me</a>
+<br>
 
-<p align="left">Hi! I’m a passionate full stack developer with over <b>5 years of experience</b> building websites and applications. I love creating projects that help others. My main focus is on TypeScript, JavaScript, Python, AHK, and HTML. I’ve built Discord multitools, designed websites for platforms like Lyricism and RoSearch, and developed countless apps and sites for creators across various fields.<br><br>I also used to be a Roblox animator, scripter, and 3D modeler. I worked as the lead developer handling scripting and animation for an unreleased battlegrounds game which was canceled!</p>
-
-###
 
 <br clear="both">
 
