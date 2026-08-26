@@ -1,6 +1,6 @@
 <img src="https://github.com/injuriez/injuriez/blob/main/OutlineFinalOutput.png?raw=true" width="410px" align="right">
 <h3>rucy / rushi / injuriez  [<a href="https://t.me/rushiBTW">contact</a>] </h3>
-<p><code>she/her</code>, <code>girl</code>, <code>perfectionist</code></p>
+<p><code>she/her</code>, <code>girl</code>, <code>perfectionist</code>, <code>lucy bedroque fan</code></p>
 <p>full stack developer</p></p>
 <p>https://meowcro.com/</p>
 <hr>
