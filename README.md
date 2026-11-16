@@ -24,7 +24,7 @@
 <div align="center">
   <h4>My Main Stack</h4>
 
-  <img src="https://skillicons.dev/icons?i=rust,tauri,py,fastapi,vite&theme=dark" alt="Rust, Tauri, Python & FastAPI, vite" />  
+  <img src="https://skillicons.dev/icons?i=rust,tauri,py,fastapi,vite,solidjs&theme=dark" alt="Rust, Tauri, Python & FastAPI, vite, Solidjs" />  
 </div>
 
 
